@@ -1,4 +1,4 @@
-# Módulo I - HTML5/CSS3/JS
+# Módulo II - HTML5/CSS3/JS
 
 ### Português (English Below)
 Projeto utilizando somente HTML e CSS para a criação de um clone da landing page do Instagram.<br>
