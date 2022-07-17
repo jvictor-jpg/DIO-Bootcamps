@@ -5,5 +5,5 @@ Desenvolvimento de um jogo da memória de tema Super Mario Bros, utilizando some
 Baseado nas aulas de Gabriela Pinheiro (https://github.com/SpruceGabriela) para DIO.
 
 ### English
-Debelopment of a Super-Mario-Bros-themed memory game using nothing but HTML, CSS and Vanilla JavaScript.<br>
+Development of a Super-Mario-Bros-themed memory game using nothing but HTML, CSS and Vanilla JavaScript.<br>
 Based on lessons by Gabriela Pinheiro (https://github.com/SpruceGabriela) for DIO.
